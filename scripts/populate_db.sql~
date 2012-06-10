@@ -1,0 +1,1 @@
+insert into todo_db.users values ('vasya', '123');
